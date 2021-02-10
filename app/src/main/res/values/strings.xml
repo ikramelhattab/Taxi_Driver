@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Taxi</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_direction_api">AIzaSyAFYdswl3TRC8Hs3ogkljKIIYdDrhsW7ps</string>
+    <string name="title_activity_driver_tracking">Map</string>
+
+</resources>
